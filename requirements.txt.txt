@@ -1,0 +1,4 @@
+opencv-python
+pandas
+natsort
+xml2csv
